@@ -1,6 +1,6 @@
 ## Guide-to-competitive-programming
 
-# First and the most important thing is where to fight
+## First and the most important thing is where to fight and how to fight
 
 ## Platforms to learn and practice 
 
